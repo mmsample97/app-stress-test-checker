@@ -2,7 +2,7 @@
 
 > Free version, here: Check only. It tells you what breaks, you fix it yourself.
 >
-> Paid version, $15, ready fix kit: Same check, PLUS the fix ready to use. Templates, examples, and a client ready report. You do not start from zero.
+> Paid version, $10, ready fix kit: Same check, PLUS the fix ready to use. Templates, examples, and a client ready report. You do not start from zero.
 >
 > Get the paid version here:
 > - Agensi, $10: https://www.agensi.io/skills/app-stress-test-checker
