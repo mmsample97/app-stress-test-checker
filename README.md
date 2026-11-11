@@ -2,11 +2,11 @@
 
 > Free version, here: Check only. It tells you what breaks, you fix it yourself.
 >
-> Paid version, $10, ready fix kit: Same check, PLUS the fix ready to use. Templates, examples, and a client ready report. You do not start from zero.
+> Paid version, ready fix kit: Same check, PLUS the fix ready to use. Templates, examples, and a client ready report. You do not start from zero.
 >
 > Get the paid version here:
-> - Agensi, $10: https://www.agensi.io/skills/app-stress-test-checker
-> - PromptBase, $9.99: https://promptbase.com/skill/appstresstestchecker
+> - Agensi: https://www.agensi.io/skills/app-stress-test-checker
+> - PromptBase: https://promptbase.com/skill/appstresstestchecker
 
 Stress Test Your App Before Real Users Break It, in Plain Words
 
